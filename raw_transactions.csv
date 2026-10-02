@@ -1,0 +1,53 @@
+cat /home/claude/finance_tracker/raw_transactions.csv
+Response
+date,category,description,amount,type
+05/01/2026,food,Groceries,85.00,expense
+2026-05-01,income,Paycheck,500.00,income
+05/02/2026,Transport,Gas,40.00,expense
+2026-05-03,tithe,Church offering,50.00,expense
+05/03/2026,SAVINGS,MacBook fund,100.00,expense
+05/04/2026,food,Lunch out,,expense
+2026-05-05,Transport,Uber,22.50,expense
+05/05/2026,entertainment,Movie tickets,30.00,expense
+05/06/2026,food,Groceries,62.75,expense
+2026-05-07,income,Side gig,150.00,income
+05/08/2026,food,Groceries,85.00,expense
+05/08/2026,food,Groceries,85.00,expense
+2026-05-09,Subscriptions,Spotify,10.99,expense
+05/10/2026,transport,Gas,38.00,expense
+05/11/2026,FOOD,Dinner out,45.00,expense
+2026-05-12,savings,Emergency fund,75.00,expense
+05/13/2026,tithe,Church offering,50.00,expense
+05/14/2026,entertainment,Concert ticket,,expense
+2026-05-15,food,Groceries,91.20,expense
+05/16/2026,income,Paycheck,500.00,income
+05/17/2026,Transport,Parking,12.00,expense
+2026-05-18,subscriptions,Netflix,15.49,expense
+05/19/2026,food,Takeout,27.80,expense
+05/20/2026,entertainment,Video game,59.99,expense
+2026-05-21,Transport,Gas,41.25,expense
+05/22/2026,food,Groceries,78.60,expense
+05/23/2026,income,Side gig,120.00,income
+2026-05-24,savings,MacBook fund,100.00,expense
+05/25/2026,tithe,Church offering,50.00,expense
+05/26/2026,food,Lunch,,expense
+2026-05-27,entertainment,Streaming bundle,19.99,expense
+05/28/2026,Transport,Uber,18.75,expense
+05/29/2026,food,Groceries,88.40,expense
+2026-05-30,income,Paycheck,500.00,income
+05/31/2026,subscriptions,Spotify,10.99,expense
+06/01/2026,food,Groceries,80.10,expense
+2026-06-02,Transport,Gas,39.50,expense
+06/03/2026,tithe,Church offering,50.00,expense
+06/03/2026,tithe,Church offering,50.00,expense
+2026-06-04,entertainment,Movie night,25.00,expense
+06/05/2026,food,Dinner out,,expense
+2026-06-06,income,Side gig,200.00,income
+06/07/2026,savings,Emergency fund,80.00,expense
+06/08/2026,Transport,Parking,9.50,expense
+2026-06-09,food,Groceries,73.30,expense
+06/10/2026,subscriptions,Netflix,15.49,expense
+2026-06-11,food,Takeout,,expense
+06/12/2026,income,Paycheck,500.00,income
+06/13/2026,entertainment,Video game,44.99,expense
+2026-06-14,Transport,Gas,37.80,expense
