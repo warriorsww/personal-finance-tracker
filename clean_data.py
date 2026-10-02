@@ -1,5 +1,3 @@
-cat /home/claude/finance_tracker/clean_data.py
-Response
 import csv
 from datetime import datetime
 
