@@ -1,5 +1,3 @@
-cat /home/claude/finance_tracker/raw_transactions.csv
-Response
 date,category,description,amount,type
 05/01/2026,food,Groceries,85.00,expense
 2026-05-01,income,Paycheck,500.00,income
