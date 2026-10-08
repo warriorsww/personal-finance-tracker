@@ -20,4 +20,4 @@ coming soon.
 
 ## Author
 Joshua Awogbami — FIU Computer Science, 
-aspiring Data Analyst
+aspiring Software Engineer
